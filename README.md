@@ -1,2 +1,2 @@
 # Farm-products
-Created with CodeSandbox
+Вёрстка React-компонентов
